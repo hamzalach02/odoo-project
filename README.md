@@ -13,7 +13,7 @@ Step Work by odoo
    ```            
 4. install Dependencies
    ```
-                    sudo apt install python3-pip libldap2-dev libpq-dev libsasl2-dev
+   sudo apt install python3-pip libldap2-dev libpq-dev libsasl2-dev
    ```
 6. install postgess
    ```
@@ -33,13 +33,15 @@ git clone https://github.com/Oussama-benrkia/event-odoo
 ```
 9. open repo:
     ```
-    cd /odoorep
-    sudo pip install -r requirements.txt
+   cd /odoorep
+   sudo pip install -r requirements.txt
     ```
  <a href="https://youtu.be/0ut8-lL-E14?list=PLT3v18VYaHYXY6qa2frMIV2FVl52L2tmP">For help ( video )</a>,
 
  <a href="https://www.odoo.com/documentation/17.0/administration/install/source.html">For help ( doc 1 )</a>,
 
  <a href="https://www.pgadmin.org/download/pgadmin-4-apt/">For help ( doc 2 )</a>,
+
+@octocat :+1: yalla 3wj chi chwiya :shipit:
 
 
