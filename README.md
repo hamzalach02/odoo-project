@@ -42,6 +42,5 @@ git clone https://github.com/Oussama-benrkia/event-odoo
 
  <a href="https://www.pgadmin.org/download/pgadmin-4-apt/">For help ( doc 2 )</a>,
 
-@octocat :+1: yalla 3wj chi chwiya :shipit:
 
 
