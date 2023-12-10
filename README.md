@@ -28,9 +28,9 @@ Step Work by odoo
    sudo apt install pgadmin4-desktop
    sudo apt install pgadmin4-web 
 8. clone this projet :
-```
-git clone https://github.com/Oussama-benrkia/event-odoo
-```
+   ```
+   git clone https://github.com/Oussama-benrkia/event-odoo
+   ```
 9. open repo:
     ```
    cd /odoorep
